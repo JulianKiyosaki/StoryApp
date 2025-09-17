@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ambastory</string>
+    <string name="welcome_image_desc">Selamat datang</string>
+    <string name="story_image_desc">Story image</string>
+    <string name="add_story">Add</string>
+    <string name="register">First complete your personal data here!</string>
+    <string name="upload_failed">Upload failed</string>
+    <string name="upload_success">Upload successful</string>
+    <string name="upload_not_valid">Please provide a valid description and image</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
